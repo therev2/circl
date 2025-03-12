@@ -1,16 +1,21 @@
-# circl
+# Circl
 
-A new Flutter project.
+Circl is a full-stack social media application designed to bring people together through interactive posts, real-time chat, and dynamic user engagement, to be built using Flutter. (proposed to have SpringBoot for the backend).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Proposed Features:
+### User Authentication: Secure signup and login using JWT and Spring Security.
+- **Post Management:** Create, update, and delete posts with support for text, images, and videos.
+- **Real-Time Chat:** Instant messaging via WebSockets.
+- **Social Interactions:** Like, comment, and follow/unfollow functionality.
+- **Notifications:** Real-time notifications for likes, comments, and new followers.
+- **Responsive UI:** Modern, intuitive design inspired by top UI trends.
 
-A few resources to get you started if this is your first Flutter project:
+  ### Frontend
+- **Flutter:** Cross-platform mobile app development.
+- **BLoC:** State management for scalable app architecture.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Backend
+- **Spring Boot:** Enterprise-grade RESTful API development.
+- **Spring Security & JWT:** Robust authentication and authorization.
+- **PostgreSQL:** Relational database for storing user data and posts.
