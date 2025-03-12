@@ -4,7 +4,7 @@ Circl is a full-stack social media application designed to bring people together
 
 
 ## Proposed Features:
-### User Authentication: Secure signup and login using JWT and Spring Security.
+- **User Authentication**: Secure signup and login using JWT and Spring Security.
 - **Post Management:** Create, update, and delete posts with support for text, images, and videos.
 - **Real-Time Chat:** Instant messaging via WebSockets.
 - **Social Interactions:** Like, comment, and follow/unfollow functionality.
