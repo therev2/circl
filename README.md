@@ -11,6 +11,7 @@ Circl is a full-stack social media application designed to bring people together
 - **Notifications:** Real-time notifications for likes, comments, and new followers.
 - **Responsive UI:** Modern, intuitive design inspired by top UI trends.
 
+## Proposed Tech Stack
   ### Frontend
 - **Flutter:** Cross-platform mobile app development.
 - **BLoC:** State management for scalable app architecture.
